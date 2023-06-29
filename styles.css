@@ -18,8 +18,10 @@ h1 {
 }
 
 .paragraph-3 {
-    background: yellowgreen;
+    font-style: italic;
+    text-align: center;
     font-size: 24px;
+    text-shadow: green 2px 5px;
 }
 
 h2 {
